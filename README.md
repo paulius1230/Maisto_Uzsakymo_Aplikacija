@@ -7,3 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Maisto užsakymo Aplikacija
+
+1. Įsikelti projektą į \xampp\htdocs
+2. Atsidaryti command prompt, nueiti į projekto folderi
+3. Pasirašyti composer update
+4. Pasirašyti npm i
