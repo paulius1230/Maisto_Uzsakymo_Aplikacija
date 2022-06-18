@@ -15,6 +15,19 @@
 4. Pasirašyti npm i
 
 
+## Vartotojo teises
 
 <img src="https://i.imgur.com/nE6fSMe.jpg">
 <img src="https://i.imgur.com/6vKzH1b.jpg">
+<img src="https://i.imgur.com/bW6bYd8.jpg">
+<img src="https://i.imgur.com/moZDaTU.jpg">
+
+# Administratoriaus teises
+
+<img src="https://i.imgur.com/ps7JA8u.jpg">
+<img src="https://i.imgur.com/5mdHCe5.jpg">
+<img src="https://i.imgur.com/iE6mfzI.jpg">
+<img src="https://i.imgur.com/XVWlqwz.jpg">
+<img src="https://i.imgur.com/v9hSAEG.jpg">
+<img src="https://i.imgur.com/aHTZhQw.jpg">
+<img src="https://i.imgur.com/yTALIx9.jpg">
