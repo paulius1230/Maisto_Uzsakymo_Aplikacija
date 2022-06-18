@@ -10,6 +10,10 @@
 ## Maisto užsakymo Aplikacija
 
 1. Įsikelti projektą į \xampp\htdocs
-2. Atsidaryti command prompt, nueiti į projekto folderi
+2. Atsidaryti command prompt, nueiti į projekto folderį su cd pagalba
 3. Pasirašyti composer update
 4. Pasirašyti npm i
+
+
+
+<img src="https://i.imgur.com/nE6fSMe.jpg">
